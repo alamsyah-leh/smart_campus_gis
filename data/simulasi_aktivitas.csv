@@ -1,0 +1,9 @@
+id,lokasi,lat,lon,aktivitas,jumlah_mahasiswa
+1,Fakultas Teknik,-7.0520,110.4380,belajar,120
+2,Kantin Teknik,-7.0510,110.4370,makan,85
+3,Halte Trans,-7.0490,110.4390,transit,45
+4,Parkiran Terpadu,-7.0500,110.4360,transit,30
+5,Student Center,-7.0530,110.4390,nongkrong,65
+6,Perpustakaan,-7.0515,110.4385,belajar,150
+7,Kantin Gedung Bersama,-7.0505,110.4375,makan,50
+8,Taman Kampus,-7.0525,110.4365,nongkrong,40
